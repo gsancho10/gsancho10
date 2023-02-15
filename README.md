@@ -4,7 +4,7 @@ Hola! mi nombre es Gonzalo Sancho! 👋
 
 Soy Fullstack Web Developer.
 
-Llegué al mundo de la programación porque buscaba un nuevo camino para mi vida profesional. Y no hay mejor experiencia que este mundo!:metal:
+Llegué al mundo de la programación porque buscaba un nuevo camino para mi vida profesional.:metal:
 
 Actualmente estoy desarrollando y editando proyectos para el constante aprendizaje. No hay mejor forma de aprender que encarar nuevos desafios y perfeccionar los mismos
 
